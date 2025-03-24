@@ -1,0 +1,41 @@
+name: Convert All Markdown Files to PDF
+
+on:
+  push:
+    branches:
+      - main # Adjust if your branch is different
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc and LaTeX
+        run: sudo apt update && sudo apt install -y pandoc texlive-xetex
+
+      - name: Convert All Markdown Files in src/ to PDF
+        run: |
+          mkdir -p output
+          for md_file in src/*.md; do
+            pdf_file="output/$(basename "${md_file%.md}.pdf")"
+            pandoc "$md_file" -o "$pdf_file" --pdf-engine=xelatex
+          done
+
+      - name: Upload PDFs as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: all-pdfs
+          path: output/*.pdf
+
+      - name: Commit PDFs back to the repo
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          mv output/*.pdf src/
+          git add src/*.pdf
+          git commit -m "Update generated PDFs"
+          git push
+        continue-on-error: true
