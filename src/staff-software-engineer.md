@@ -9,6 +9,12 @@
 
 ---
 
+## Download PDFs
+
+📄 [Resume PDF](https://github.com/florent-uzio/resumes/blob/main/src/staff-software-engineer.pdf)
+
+---
+
 ## Summary
 
 Staff Software Engineer with 7+ years in the blockchain and payment industries.
