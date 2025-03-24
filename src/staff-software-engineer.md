@@ -1,4 +1,4 @@
-# Your Name
+# Florent Uzio
 
 ## Staff Software Engineer
 
@@ -11,7 +11,7 @@
 
 ## Summary
 
-Software Engineer with 7+ years in the blockchain and payment industries.
+Staff Software Engineer with 7+ years in the blockchain and payment industries.
 
 ---
 
@@ -19,21 +19,22 @@ Software Engineer with 7+ years in the blockchain and payment industries.
 
 ### **Staff Software Engineer** – [Ripple](https://ripple.com)
 
-📍 Dubai | 🗓 01/01/2024 – Current
+📍 Dubai, UAE | 🗓 01/2024 – Current
 
 - Stablecoins design and tokenization workflow
 - Developped a **Go** SDK for the XRP Ledger
 - Interacted with the new [XRPL EVM Sidechain](https://www.xrplevm.org/) to deploy smart contracts.
 - Developped backend and frontend tools to reduce the go to production time for our partners from a year to 4 months
-- Backend: Typescript, Javascript, [Nest.js](https://nestjs.com/), Postgres
-- Frontend: React, Vite.js, [Chakra UI](https://www.chakra-ui.com/), [Stitches](https://stitches.dev/)
+- Backend: Typescript, Javascript, [Nest.js](https://nestjs.com/), Postgres, Docker, [xrpl.js](https://github.com/XRPLF/xrpl.js)
+- Frontend: Typescript, React, Vite.js, [Chakra UI](https://www.chakra-ui.com/), [Stitches](https://stitches.dev/), Wagmi, Viem
 
-### **Job Title** – Company Name
+### **Senior Frontend Engineer** – Ripple
 
-📍 Location | 🗓 _Start Date – End Date_
+📍 Dubai, UAE | 🗓 04/2021 – 12/2023
 
-- Another relevant experience.
-- Keep descriptions concise and achievement-focused.
+- Developped the [Ripple RLUSD stablecoin](https://ripple.com/solutions/stablecoin/) UI
+- Built the [Ripple Design System](https://ripple.github.io/ui-toolkit/?path=/docs/installing--docs)
+- Tech Stack: Typescript, React, Vite.js, [Radix UI](https://www.radix-ui.com/), [Stitches](https://stitches.dev/), Wagmi, Viem, Ledger Nano
 
 ---
 
