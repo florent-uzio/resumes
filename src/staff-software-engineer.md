@@ -38,30 +38,41 @@ Staff Software Engineer with 7+ years in the blockchain and payment industries.
 
 ### **Senior Software Engineer** – [Ripple](https://ripple.com)
 
-📍 Dubai, UAE | 🗓 09/2021 – 03/2021
+📍 Singapore | 🗓 09/2020 – 03/2021
 
 - Developed a Java "best practices" code and documentation to allow Ripple customers to process international payments the right way using RippleNet APIs.
 
 ### **Senior Integration Engineer** – [Ripple](https://ripple.com)
 
-📍 Dubai, UAE | 🗓 09/2021 – 03/2021
+📍 Singapore | 🗓 02/2018 – 08/2020
 
-- Worked with Ripple customers to design and code their integration with RippleNet APIs
-- Tech stack: Typescript, Node.js, Docker, AWS, Ngnix, Apache Server, SSL certificates, Linux (Red Hat, Ubuntu), Java
+- Worked with banks and payment service providers to design and develop their integration with RippleNet APIs.
+- Worked with Ripple product team to implement required features or fix bugs.
+- Tech stack: Typescript, Node.js, Docker, AWS, Ngnix, Apache Server, SSL certificates, Linux (Red Hat, Ubuntu), Java.
+
+### **Technical Integration Manager** – [Lexis Nexis](https://risk.lexisnexis.com/?trmid=CMCXRKEV.corporate.gateway.WS3P-1086803)
+
+📍 London, Singapore | 🗓 09/2016 – 01/2018
+
+- Implemented Compliance and KYC solutions for banks and payment service provides in Europe, Africa and Asia.
+- Tech stack: Java, Apache Tomcat, Shell/Bash, AWS Linux servers, Windows servers.
 
 ---
 
 ## Education
 
-🎓 **Degree** – University Name  
-📍 Location | 🗓 _Start Date – Graduation Date_
+🎓 **Master Degree in Computer Science** – [Ecole des Mines](https://www.imt-mines-ales.fr/en)  
+📍 Ales, France | 🗓 09/2006 – 06/2011
 
-- (Optional) Notable coursework, projects, or achievements.
+🎓 **Master Degree in Computer Science (Dual Degree)** – [Bauman Moscow State Technical University](https://fiep.bmstu.ru/?lang=en)  
+📍 Moscow, Russia | 🗓 09/2009 – 06/2011
 
 ---
 
 ## Languages
 
-- **Language 1** – Proficiency level
-- **Language 2** – Proficiency level
-- **Language 3** – Proficiency level
+- **French** – Fluent
+- **English** – Fluent
+- **Russian** – Excellent professional level
+- **Spanish** – Good professional level
+- **Slovak** – Good conversational level
